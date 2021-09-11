@@ -1,0 +1,10 @@
+
+Suma: 12+6=18.0
+Suma: 123+45=168.0
+Multiplicacion: 900*6=5400.0
+Division: 81.4/6=13.566666666666668
+Resta: 732-500=232.0
+Resta: 928-5=923.0
+Suma: 93+7=100.0
+Multiplicacion: 123*6=738.0
+Division: 20/5=4.0
